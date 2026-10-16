@@ -7,7 +7,7 @@ Wirtschaftsinformatik B.Sc
 
 ## Meine bisherige Erfahrung mit Softwareentwicklung
 
-Die Entwicklung mehrerer Applikationen.
+Die Entwicklung mehrerer Applikationen. 
 
 ## Das erwarte ich von der Veranstaltung
 
