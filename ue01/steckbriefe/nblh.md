@@ -11,4 +11,4 @@ Die Entwicklung mehrerer Applikationen.
 
 ## Das erwarte ich von der Veranstaltung
 
-Das Lernen von besserer Strukturierung von Software(-projekten) und Themen / Punkte, die ich persönlich nicht kenne / mir fehlen.
+Das Lernen von besserer Strukturierung von Software(-projekten) und Themen / Punkte, die ich persoenlich nicht kenne / mir fehlen.
